@@ -27,3 +27,9 @@ Thumbs.db
 
 # Optional: coverage reports if using testing
 coverage/
+
+# wrangler files
+.wrangler
+.dev.vars*
+!.dev.vars.example
+!.env.example
